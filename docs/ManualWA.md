@@ -401,6 +401,14 @@ The MSWEP account can be created here: [www.gloh2o.org](http://www.gloh2o.org/).
 
 ![](figs/mswep.png) 
 
+
+### <a name="chapter4_4"></a>Account 4: ECMWF
+
+[install a ECMWF key](https://confluence.ecmwf.int/display/WEBAPI/Access+ECMWF+Public+Datasets)
+
+
+https://confluence.ecmwf.int/display/CKB/How+to+download+ERA-Interim+data+from+the+ECMWF+data+archive
+
 ---
 
 
